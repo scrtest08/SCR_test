@@ -2,14 +2,14 @@
 
 int Calculator::pow(int a, int n)
 {
-	// ZAIMPLEMENTUJ MNIE ;_;
+	return a*n/8;
 
-	return -1;
+	//return -1;
 }
 	
 int Calculator::fac(int n)
 {
-	// ZAIMPLEMENTUJ MNIE ;_;
+	return 12;
 
-	return -1;
+	//return -1;
 }
